@@ -32,3 +32,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+lumache.get_random_ingredients(kind=meat)
